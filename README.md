@@ -1,7 +1,7 @@
 # TOPAS-nBio
 This is the TOPAS-nBio extension repository, a Monte Carlo simulation framework for (sub-) cellular radiobiology.
 
-TOPAS-nBio is described here: https://topas-nbio.readthedocs.io/
+TOPAS-nBio is described here: https://topas-nbio.readthedocs.io/. 
 This page includes a class documentation and the license.
 
 TOPAS-nBio is an extension of TOPAS (TOol for PArticle Simulations), which can be obtained from www.topasmc.org. The TOPAS documentation can be found at https://topas.readthedocs.io/. 
